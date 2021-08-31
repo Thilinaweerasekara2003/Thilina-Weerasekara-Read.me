@@ -13,7 +13,7 @@
 
 <img width="50%" align="right" alt="Github" src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" />
   
-- I’m currently working on [Team Of Shadow](https://github.com/https://github.com/Thilinaweerasekara2003/);
+- I’m currently working on [HI Tec Robot](https://github.com/https://github.com/Thilinaweerasekara2003/);
 
 - 🌱 I’m currently learning Python And Linux(CircleCI);
 
@@ -25,7 +25,7 @@
 
 - ⚡️ Fun-Fact: I'm Still Student;
 
-- 📫 How to reach me: deshadeeththisarana@gmail.com;
+- 📫 How to reach me: ThilinaWeerasekara2003@gmail.com;
 
 <img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
