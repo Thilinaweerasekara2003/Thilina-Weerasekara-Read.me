@@ -69,7 +69,7 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
 <h2>Contributions 📈</h2>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Thilinaweerasekara2003" alt="Thilinaweerasekara2003"></p>
 
-<a href="https://github.com/deshadeeth-thisarana"><img alt="Thilina's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Thilina-Weerasekar2003a&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ThilinaWeerasekara2003"><img alt="Thilina's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Thilina-Weerasekar2003a&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <h2>Follow me on <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2> 
 
