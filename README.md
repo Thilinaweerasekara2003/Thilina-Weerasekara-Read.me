@@ -1,11 +1,11 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-| <a href="https://t.me/DeshadeethThisarana"><img src="https://telegra.ph/file/ddfd7a3db59682ded254c.png" width="350px" height="350px" /></a> |
+| <a href="https://t.me/GangOfMafiaAssistant "><img src="https://telegra.ph/file/240ad9714c5efde319ca9.jpg" width="350px" height="350px" /></a> |
 |:-----------------------------------------------------------------------------------------------------------------------------------:|
 |      <h2 align="center"> [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](https://t.me/DeshadeethThisarana) </h2>                                           |
 | <a href="https://t.me/DeshadeethThisarana"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="40px" height="40px"></a> <a href="https://github.com/deshadeeth-thisarana"><img align="center" src="https://telegra.ph/file/986aa4de44af2256205e5.png" width="40px" height="40px"></a> <a href="https://www.instagram.com/DeshadeethThisarana" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> <a href="https://twitter.com/Deshadeeth" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> |                                      
 
-<h2>I'm Deshadeeth Thisarana , a Developer from Sri Lanka 🇱🇰 still learning.</h2> 
+<h2>I'm ★彡Gang Of Mafia Assistant彡 ـــ٨ـہہـ♡ـ٨ـہ❤️ , a Developer from Sri Lanka 🇱🇰 still learning.</h2> 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
 
@@ -13,11 +13,11 @@
 
 <img width="50%" align="right" alt="Github" src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" />
   
-- I’m currently working on [Team Of Shadow](https://github.com/TeamOfShadow/);
+- I’m currently working on [Team Of Shadow](https://github.com/https://github.com/Thilinaweerasekara2003/);
 
 - 🌱 I’m currently learning Python And Linux(CircleCI);
 
-- 👯 I’m looking to collaborate on [Here](https://t.me/Gangoffriends) 🤝;
+- 👯 I’m looking to collaborate on [Here](https://t.me/gangofmafiatm) 🤝;
 
 - 🤔 I’m looking for help with bot developing 😭;
 
@@ -32,16 +32,16 @@
 
 <h2>Stats 📊</h2>
 
-<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=deshadeeth-thisarana&theme=dracula&count_private=true"></div>
+<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=Thilina-Weerasekara&theme=dracula&count_private=true"></div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=deshadeeth-thisarana&show_icons=true&hide_border=true&theme=tokyonight">
 
 <h2>Github Status <img 
 src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 </h2>
 
-- [![Profile views](https://gpvc.arturio.dev/deshadeeth-thisarana)](https://github.com/deshadeeth-thisarana)
-- [![GitHub followers](https://img.shields.io/github/followers/deshadeeth-thisarana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/deshadeeth-thisarana?tab=followers)
-- [![visitors](https://visitor-badge.glitch.me/badge?page_id=deshadeeth-thisarana)](https://github.com/deshadeeth-thisarana)
+- [![Profile views](https://gpvc.arturio.dev/Thilinaweerasekara2003)](https://github.com/Thilinaweerasekara2003)
+- [![GitHub followers](https://img.shields.io/github/followers/Thilinaweerasekara2003.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Thilinaweerasekara2003?tab=followers)
+- [![visitors](https://visitor-badge.glitch.me/badge?page_id=Thilinaweerasekara2003)](https://github.com/Thilinaweerasekara2003)
 
 
 <h2>Tools 🛠</h2> 
@@ -64,33 +64,31 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
 </p>
 
 <h2>Most used Languages 🔠</h2> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshadeeth-thisarana&theme=tokyonight&hide=batchfile">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilinaweerasekara2003&theme=tokyonight&hide=batchfile">
  
 <h2>Contributions 📈</h2>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deshadeeth-thisarana" alt="deshadeeth-thisarana"></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Thilinaweerasekara2003" alt="Thilinaweerasekara2003"></p>
 
-<a href="https://github.com/deshadeeth-thisarana"><img alt="Deshadeeth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deshadeeth-thisarana&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/deshadeeth-thisarana"><img alt="Thilina's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Thilina-Weerasekara&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <h2>Follow me on <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2> 
 
-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/deshadeeth-thisarana)
-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deshadeeth-thisarana-b438b5209/)
-- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Deshadeeth:deshadeeththisarana@gmail.com)
-- [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:deshadeeththisarana@gmail.com)
+- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Thilinaweerasekara2003)
+- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Thilina:ThilinaWeerasekara2003@gmail.com)
 
 
 <p align="left">
-<a href="https://t.me/DeshadeethThisarana" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/deshadeeththisarana" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://t.me/GangOfMafiaAssistant " target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/thilinaweerasekara2003/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/Deshadeeth" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
+
 </p>  
 
 <h2>Join My Group & Channel 🎉</h2>
 
-<a href="https://t.me/ShadowBotUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/HITecRobot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/gangoffriends"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/gangofmafiatm"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 <h2>Currently working on 💻</h2>
